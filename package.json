@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "jest": "^29.7.0",
+    "prompt-sync": "^4.2.0"
+  },
+  "scripts": {
+    "test": "jest /test"
+  }
+}
