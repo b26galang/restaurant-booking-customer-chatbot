@@ -6,7 +6,7 @@ class BarAndGrill extends Restaurant {
     }
 
     describe() {
-        return `The Bar/Grill is ${this.name} at ${this.address}.`;
+        return `The Bar/Grill is ${this.name} at ${this.address}. They specialize in ${this.cuisineType} food.`;
     }
 }
 
